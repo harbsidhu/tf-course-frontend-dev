@@ -1,2 +1,3 @@
-# tf-course-frontend-dev
-javascript - Repo for TF Practice
+ # This is dev javascript repository for Terrafrom Course -- frontend. 
+ The repo was last updated by Harbrinder Sidhu
+ This has been added using templatefile() function
